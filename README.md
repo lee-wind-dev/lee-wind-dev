@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leewind99&label=Profile%20views&color=0e75b6&style=flat" alt="leewind99" /> </p>
 
-- 💬 Ask me about **React**
+🌱 I'm learning Javascript and ReactJS 😍
+🏆 I usually work with PHP language
+📫 Ask me anything you want here, If I were alive, I would reply within seconds 😉
+😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
