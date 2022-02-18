@@ -27,5 +27,6 @@ I love writing what I do and I've learned while working on my projects, so I'm w
 </p>
 <p align="center">
   Or mail for me: <a href="mailto:lhphongdev@gmail.com">lhphongdev@gmail.com</a>
+  <br/>
   Call me: 0383493067
 </p>
