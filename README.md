@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Lee Wind</h1>
+<h1 align="center">Hi 👋, I'm Lee Wind</h1><img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leewind99&label=Profile%20views&color=0e75b6&style=flat" alt="leewind99" /> </p>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="350px" />
 🌱 I usually work with Javascript and ReactJS
 <br />
 📫 Ask me anything you want here, If I were alive, I would reply within seconds 😉
