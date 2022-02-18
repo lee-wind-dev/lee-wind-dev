@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leewind99&label=Profile%20views&color=0e75b6&style=flat" alt="leewind99" /> </p>
 
-🌱 I'm learning Javascript and ReactJS 😍
-🏆 I usually work with PHP language
+🌱 I usually work with Javascript and ReactJS
+<br />
 📫 Ask me anything you want here, If I were alive, I would reply within seconds 😉
+<br />
 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <h3 align="left">Connect with me:</h3>
