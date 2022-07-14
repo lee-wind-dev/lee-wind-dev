@@ -1,7 +1,13 @@
 <span >Hi 👋, I'm Le Hong Phong (Lee Wind) </span><img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="30px" height="30px" alt="totoro">
-<h3>A passionate frontend developer from Viet Nam</h3>
+<h3>A passionate frontend developer love to build and share new things with others, from Viet Nam</h3>
 
 <br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lee-wind-dev">
+  <img src="https://shields.io/github/stars/lee-wind-dev">
+  <img src="https://img.shields.io/github/followers/lee-wind-dev">
+</p>
 
 ### 🧑🏻‍💻 ***About Me***
 🌱 I usually work with HTML, CSS, Javascript and ReactJS
@@ -30,3 +36,4 @@ I love writing what I do and I've learned while working on my projects, so I'm w
   <br/>
   Call me: 0383493067
 </p>
+
