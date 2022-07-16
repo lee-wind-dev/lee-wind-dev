@@ -25,6 +25,8 @@
 
 I love writing what I do and I've learned while working on my projects, so I'm writing a blog - it is under construction and will be made public soon
 ##
+
+<img align="center" width="100%" height="100%" src="https://github.com/lee-wind-dev/lee-wind-dev/blob/main/snake.svg">
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
