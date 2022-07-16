@@ -1,5 +1,5 @@
-<span >Hi 👋, I'm Le Hong Phong (Lee Wind) </span><img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="30px" height="30px" alt="totoro">
-<h3>A passionate frontend developer love to build and share new things with others, from Viet Nam</h3>
+<H3 >Hi 👋, I'm Le Hong Phong (Lee Wind) </span><img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="30px" height="30px" alt="totoro">
+<h4>A passionate frontend developer love to build and share new things with others, from Viet Nam</h3>
 
 <br />
 
@@ -10,12 +10,18 @@
 </p>
 
 ### 🧑🏻‍💻 ***About Me***
-🌱 I usually work with HTML, CSS, Javascript and ReactJS
+🌱 I usually work with HTML, CSS, Javascript, Typescript, NextJS, VueJS, ReactJS
+<br />
 <br />
 📫 Ask me anything you want here, If I were alive, I would reply within seconds 😉
 <br />
+<br />
 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
+
+<br />
+<br />
+<br />
 
 
 <h3>🛠 Languages and Tools:</h3>
