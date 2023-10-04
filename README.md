@@ -1,8 +1,7 @@
 <H3 >Hi 👋, I'm Le Hong Phong (Lee Wind) </span><img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="30px" height="30px" alt="totoro">
-<h4>A passionate web developer love to build and share new things with others, from Viet Nam</h3>
-
+<h4>A Full-stack web developer, love to build and share new things with others, from Viet Nam</h3>
 <br />
-
+<br />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lee-wind-dev">
   <img src="https://shields.io/github/stars/lee-wind-dev">
@@ -10,9 +9,14 @@
 </p>
 
 ### 🧑🏻‍💻 ***About Me***
-🌱 I usually work with HTML, CSS, Javascript, Typescript, NextJS, VueJS, ReactJS,..
+🌱 I usually work with : 
+<br /> - Golang (GIN, Fiber), NodeJs (Express), Firebase, GCP, MySQL, NoSQL (MongoDB) 
+<br /> - Docker, Redis, Socket.io
+<br /> - ReactJS, NextJS, VueJS, HTML, CSS, Javascript, Typescript, ...
+<br /> - Responsive, Styled-Component, Ant-design, Tailwind CSS, Material, Boostrap,...
+<br /> - Stripe, Paypal, Apple pay
+<br /> - Gen Documentation: Swagger, Postman
 <br />
-Golang, Firebase, GCP,..
 <br />
 <br />
 📫 Ask me anything you want here, If I were alive, I would reply within seconds 😉
